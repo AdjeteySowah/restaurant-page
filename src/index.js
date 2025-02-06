@@ -52,4 +52,4 @@ let restaurant = {
 };
 
 restaurant.init();
-homeTab.init();
+homeTab.init();      // The home page needs to be rendered automatically when the page is loaded
