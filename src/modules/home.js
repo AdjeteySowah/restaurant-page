@@ -13,7 +13,7 @@ export let homeTab = {
 
    render: function() {
       this.content.innerHTML = "";
-         let div = document.createElement("p");
+         let div = document.createElement("div");
          div.setAttribute("class", "home");
             let paragraph1 = document.createElement("p");
             paragraph1.setAttribute("class", "home__tagline");
