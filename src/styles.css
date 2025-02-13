@@ -57,7 +57,7 @@ img {
 }
 
    /* This style could be applied to the universal selector(*) but it's here for clarity */
-p, h1, h2, input, button {
+p, h1, h3, input, button {
    font: inherit;
    overflow-wrap: break-word;
 }
@@ -66,7 +66,7 @@ p {
    text-wrap: pretty;
 }
 
-h1, h2 {
+h1, h3 {
    text-wrap: balance;
 }
 
